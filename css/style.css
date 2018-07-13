@@ -283,6 +283,14 @@
 					animation-delay: 3.25s;
 				}
 
+				#header nav li:nth-child(5) {
+					-moz-animation-delay: 3.5s;
+					-webkit-animation-delay: 3.5s;
+					-o-animation-delay: 3.5s;
+					-ms-animation-delay: 3.5s;
+					animation-delay: 3.5s;
+				}
+
 			#header nav a {
 				-webkit-tap-highlight-color: transparent;
 				-webkit-touch-callout: none;
